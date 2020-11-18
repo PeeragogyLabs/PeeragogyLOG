@@ -10,9 +10,9 @@ So you've decided to try peer learning? Maybe you've already found a few people 
 #+END_QUOTE
 
 * Group identity
-   :PROPERTIES:
-   :CUSTOM_ID: group-identity
-   :END:
+:PROPERTIES:
+:custom_id: group-identity
+:END:
 
 Note that there are many groups that may not need to be "convened",
 since they already exist. There is a good story from
@@ -26,11 +26,10 @@ not fixed. In this section, we suppose you are just at the point of
 kicking off a project. What steps should you take? We suggest you take a
 moment to ponder the following questions first - and revisit them
 afterward, as a way to identify best practices for the next effort.
-
 * There will be a quiz
-   :PROPERTIES:
-   :CUSTOM_ID: there-will-be-a-quiz
-   :END:
+:PROPERTIES:
+:custom_id: there-will-be-a-quiz
+:END:
 
 Those taking the initiative should ask themselves the traditional Who,
 What, Where, When, Why, and How.
@@ -44,8 +43,7 @@ structure of the project (and the group) may change over time. Here, we
 riff on the traditional 5W's+H with six clusters of questions to help
 you focus your thinking about the project and amplify its positive
 outcomes.
-
-* Expectations for participants
+s
    :PROPERTIES:
    :CUSTOM_ID: expectations-for-participants
    :END:
