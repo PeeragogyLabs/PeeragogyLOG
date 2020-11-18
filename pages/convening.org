@@ -2,24 +2,11 @@
 #+FIRN_ORDER: 19
 
 #+BEGIN_QUOTE
-  So you've decided to try peer learning? Maybe you've already found a
-  few people who will support you in this effort. Congratulations! It's
-  time now to focus your thinking. How will you convene others to form a
-  suitable group? How will you design a learner experience which will
-  make your project thrive? In this chapter, we suggest a variety of
-  questions that will help you to make your project more concrete for
-  potential new members. There are no good or bad answers - it depends
-  on the nature of your project and the context. Trying to answer the
-  questions is not something you do just once. At various stages of the
-  project, even after it's over, some or all of those questions will
-  aquire new meanings - and probably new answers.
+So you've decided to try peer learning? Maybe you've already found a few people who will support you in this effort. Congratulations! It's time now to focus your thinking. How will you convene others to form a suitable group? How will you design a learner experience which will make your project thrive? In this chapter, we suggest a variety of questions that will help you to make your project more concrete for potential new members. There are no good or bad answers - it depends on the nature of your project and the context. Trying to answer the questions is not something you do just once. At various stages of the project, even after it's over, some or all of those questions will aquire new meanings - and probably new answers.
 #+END_QUOTE
 
 #+BEGIN_QUOTE
-  *Fabrizio Terzi*: "There is a force of attraction that allows
-  aggregation into groups based on the degree of personal interest; the
-  ability to enhance and improve the share of each participant; the
-  expectation of success and potential benefit."
+*Fabrizio Terzi*: "There is a force of attraction that allows aggregation into groups based on the degree of personal interest; the ability to enhance and improve the share of each participant; the expectation of success and potential benefit."
 #+END_QUOTE
 
 * Group identity
