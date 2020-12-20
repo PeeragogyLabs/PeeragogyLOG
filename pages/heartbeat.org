@@ -2,15 +2,13 @@
 #+FIRN_ORDER: 14
 
 * Motivation
-    :PROPERTIES:
-    :CUSTOM_ID: motivation
-    :END:
+:PROPERTIES:
+:custom_id: motivation
+:END:
 
 This pattern can help project participants stay in touch, and stay
 motivated.
-
-* Context
-    :PROPERTIES:
+ :PROPERTIES:
     :CUSTOM_ID: context
     :END:
 
