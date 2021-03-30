@@ -18,9 +18,9 @@ When there's learning happening, it's because there is someone who is
 new to a topic, or to something about the topic.
 
 * Forces
-    :PROPERTIES:
-    :CUSTOM_ID: forces
-    :END:
+:PROPERTIES:
+:custom_id: forces
+:END:
 
 #+BEGIN_QUOTE
   [[file:images/individuation.png]] *Individuation*: each person
@@ -29,7 +29,6 @@ new to a topic, or to something about the topic.
   [[file:images/mutuality.png]] *Mutuality*: our individuality does not
   isolate us from one another, but draws us together.
 #+END_QUOTE
-
 * Problem
     :PROPERTIES:
     :CUSTOM_ID: problem
