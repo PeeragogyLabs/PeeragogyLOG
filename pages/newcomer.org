@@ -164,12 +164,9 @@ currently learning about.
 6. Katherine Panciera, Aaron Halfaker, and Loren Terveen. 2009.
    Wikipedians are born, not made: A study of power editors on Wikipedia. /Proceedings of the aCM 2009 international conference on supporting group work/, ACM, 51--60.
 
-7. Gilbert Simondon. 2012. Technical mentality. In /Gilbert Simondon:
-   Being and technology/, Arne De Boever, Alex Murray, Jon Roffe and
-   Ashley Woodward (eds.). Oxford University Press, 1--15.
+7. Gilbert Simondon. 2012. Technical mentality. In /Gilbert Simondon: Being and technology/, Arne De Boever, Alex Murray, Jon Roffe and Ashley Woodward (eds.). Oxford University Press, 1--15.
 
-8. C.S. Wagner. 2008. /The new invisible college: Science for
-   development/. Brookings Inst Press.
+8. C.S. Wagner. 2008. /The new invisible college: Science for development/. Brookings Inst Press.
 
 --------------
 
