@@ -191,9 +191,9 @@ and far weaker than community norms. So rather than introduce "rules"
 5PH1NX simply provided a reminder of the client-side responsibility.
 
 * The Emergence of Peeragogical Assessment
-   :PROPERTIES:
-   :CUSTOM_ID: the-emergence-of-peeragogical-assessment
-   :END:
+:PROPERTIES:
+:custom_id: the-emergence-of-peeragogical-assessment
+:END:
 
 The third page on the Feats of Wisdom blog was entitled /Identifying and
 Rewarding Greatness/, where learners were greeted with the following
@@ -229,7 +229,6 @@ coursework. This was learner-centered Peeragogical assessment in action;
 learners identified a need and an opportunity, they built a tool for the
 purpose, they managed it themselves, and they leveraged it in a
 meaningful way to support student achievement in the core curriculum.
-
 * Project Infinity 2 & Implications for the Future
    :PROPERTIES:
    :CUSTOM_ID: project-infinity-2-implications-for-the-future
