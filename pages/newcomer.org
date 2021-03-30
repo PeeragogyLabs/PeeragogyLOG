@@ -139,9 +139,9 @@ to expect when they do. We should have different guides for different
 currently learning about.
 
 * References
-    :PROPERTIES:
-    :CUSTOM_ID: references
-    :END:
+:PROPERTIES:
+:custom_id: references
+:END:
 
 1. D. Boud and A. Lee. 2005. "Peer learning" as pedagogic discourse for
    research education. /Studies in Higher Education/ 30, 5: 501--516.
@@ -189,4 +189,3 @@ currently learning about.
 [fn:5] [[https://meta.wikimedia.org/wiki/Research:Newcomer_survival_models]]
 
 [fn:6] [[http://www.foundersandcoders.com/academy/]]
-
