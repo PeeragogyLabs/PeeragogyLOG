@@ -152,7 +152,7 @@ currently learning about.
 
 3. Y. Engeström. 1999. Innovative learning in work teams: Analyzing
    cycles of knowledge creation in practice. In /Perspectives on
-   activity theory/, Yrjö Engeström, Reijo Miettinen and Raija-Leena
+* activity theory/, Yrjö Engeström, Reijo Miettinen and Raija-Leena
    Punamäki (eds.). Cambridge University Press, 377--406.
 
 4. Paulo Freire. 1982. Creating alternative research methods: Learning
