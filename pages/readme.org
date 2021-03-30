@@ -69,9 +69,9 @@ of changes to the contents (the 3rd Edition was published in 2016).
 - or [[mailto:peeragogy@gmail.com?subject=Book%20order&body=Hi,%20I'd%20like%20to%20order%20a%20copy%20of%20the%20Peeragogy%20Handbook.][buy a paperback copy from us for $12 USD]].
 
 ** Table of Contents
-   :PROPERTIES:
-   :CUSTOM_ID: table-of-contents
-   :END:
+:PROPERTIES:
+:custom_id: table-of-contents
+:END:
 
 1. [[file:foreword.org][Foreword]] by Howard Rheingold :: i
 2. [[file:preface.org][Preface to the 3rd Edition]] :: v
@@ -145,7 +145,6 @@ Resources:
 2. [[file:recommended_reading.org][Recommended reading]] :: 253
 3. [[file:license.org][License]] :: 263
 4. [[file:peeragogy_handbook_v4.org][Peeragogy Handbook v4]] :: xx
-
 ** How to cite
     :PROPERTIES:
     :CUSTOM_ID: how-to-cite
