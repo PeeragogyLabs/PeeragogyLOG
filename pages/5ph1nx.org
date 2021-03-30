@@ -79,9 +79,9 @@ and the journal topic was this:
   There's always only one reality."
 #+END_QUOTE
 * Find the jokers
-   :PROPERTIES:
-   :CUSTOM_ID: find-the-jokers
-   :END:
+:PROPERTIES:
+:custom_id: find-the-jokers
+:END:
 
 [[file:images/jokers.jpg]]
 
@@ -130,7 +130,6 @@ On the back of each Joker card was a QR code that linked to a blog page
 with riddles and clues to a search. At this point students realized they
 were playing a game. A tab on the blog page labeled "The Law" laid out
 the rules of engagement:
-
 * This is The Law
    :PROPERTIES:
    :CUSTOM_ID: this-is-the-law
