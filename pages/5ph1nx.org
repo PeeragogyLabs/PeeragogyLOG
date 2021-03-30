@@ -42,9 +42,9 @@ assessment process.
 #+END_QUOTE
 
 * Enter 5PH1NX
-   :PROPERTIES:
-   :CUSTOM_ID: enter-5ph1nx
-   :END:
+:PROPERTIES:
+:custom_id: enter-5ph1nx
+:END:
 
 On Monday, April 2, 2011, students in three English classes at a
 California public high school discovered anomalies in the day's entry on
@@ -78,7 +78,6 @@ and the journal topic was this:
   I've had that experience myself. But don't let appearance*s* fool you.
   There's always only one reality."
 #+END_QUOTE
-
 * Find the jokers
    :PROPERTIES:
    :CUSTOM_ID: find-the-jokers
