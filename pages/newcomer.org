@@ -148,10 +148,7 @@ currently learning about.
 
 2. Susan L Bryant, Andrea Forte, and Amy Bruckman. 2005. Becoming
    Wikipedian: Transformation of participation in a collaborative online
-   encyclopedia. 
-
-/Proceedings of the 2005 international aCM sIGGROUP
-   conference on supporting group work/, ACM, 1--10.
+   encyclopedia. /Proceedings of the 2005 international aCM sIGGROUP conference on supporting group work/, ACM, 1--10.
 
 3. Y. Engeström. 1999. Innovative learning in work teams: Analyzing
    cycles of knowledge creation in practice. In /Perspectives on
