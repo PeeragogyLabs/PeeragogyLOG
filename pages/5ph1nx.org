@@ -303,9 +303,9 @@ but we are part of something so much bigger than we think. What does
 this prove? It proves everything; it proves that it's possible."
 
 * Background
-   :PROPERTIES:
-   :CUSTOM_ID: background
-   :END:
+:PROPERTIES:
+:custom_id: background
+:END:
 
 A world in which work looks like what's described in the PSFK think
 tank's
@@ -457,4 +457,3 @@ of Oedipus, who took on the inscrutable and intimidating Sphinx, solved
 the riddle that had killed others who tried, and ushered out the old
 belief systems to pave the way for the Gods of Olympus.  Imagine what
 would have happened if Oedipus had had the Internet.
-
